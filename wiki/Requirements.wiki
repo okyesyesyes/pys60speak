@@ -6,7 +6,7 @@
 Speak is a very simple application which doesn't require much hardware as others. It is mostly based on to use the available software intensively. Most of the Symbian 3rd Edition Phones are expected to work with Speak fluently, given that it meets the System Requirements.
 
 
-= Details =
+== Details ==
 
 Following are the basic System Requirements deduced upto current expections:
   * Nokia non-touch Smartphone based on Symbian S60 3rd Edition with built-in Text-to-Speech Engine
